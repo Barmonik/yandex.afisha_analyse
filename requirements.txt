@@ -1,0 +1,7 @@
+ python 
+ pandas 
+ numpy 
+ sqlalchemy 
+ matplotlib.pyplot
+ seaborn
+ phik
